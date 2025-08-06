@@ -1,5 +1,5 @@
 Important Notes for Project
 - Initial thought 1
-- Initial thought 2
+- Another thought 2 from branch 2
 
 
